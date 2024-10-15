@@ -73,3 +73,13 @@ h1, p, h2{
     font-size: 10px;
     text-align: left;
 }
+.popular{
+    display: block;
+    margin: auto;
+    max-width: 32%;
+    text-align: center;
+    color: white;  
+    font-size: 20px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}

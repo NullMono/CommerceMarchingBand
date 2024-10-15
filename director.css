@@ -63,13 +63,30 @@ h1, p, h2{
 .upper{
     padding-top: 2%;
 }
-.upper, .lower{
+
+.container{
+    align-items: center;
+    justify-content: center;
+}
+.roye{
+    border: black 0px solid;
+    padding-left: 1%;
+    padding-top: 10px;
+    max-width: 40%;
+    max-height:40%;
+    float: left;
+}
+.directorInfo{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 7%;
+    margin-bottom: 7%; 
+}.lower{
+    font-size: 10px;
+    text-align: left;
+}.upper, .lower{
     padding-bottom: 1%;
     background-color: #765700;
     margin: auto;
     display:block;
-}
-.lower{
-    font-size: 10px;
-    text-align: left;
 }

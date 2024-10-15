@@ -4,7 +4,8 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 10%;
+    margin-bottom: 5%;
+    margin-top: 5%;
 }
 a:hover{
     animation: myhover 500ms;
@@ -83,4 +84,8 @@ h1, p, h2{
 .info{
     margin-left: 2.5%;
     margin-right: 2.5%;
+}
+.bottom{
+    border: whitesmoke 2px solid;
+    background-color: #765700;
 }
